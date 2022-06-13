@@ -1,0 +1,53 @@
+*{
+	background-color:#191919;
+	color:white;
+}
+header{
+	background-color:gold;
+}
+section
+{
+	background-color:#222222;
+	width:99%;
+	float:left;
+}
+h2
+{
+	background-color:gold;
+	text-align:center;
+}
+img
+{
+	height:50%;
+	width:50%;
+}
+
+table
+{
+	background-color:gray;
+}
+#img2
+{
+	text-align:center
+}
+#imgs
+{
+	text-align:center
+}
+
+@media screen and (max-width:1200px){
+	body{
+		font-size:12px;
+	}
+	header{
+		font-size:30px;
+	}
+	td{
+		width:50%;
+		font-size:45px;
+	}
+	img{
+		height:60%;
+		width:60%;
+	}
+}
